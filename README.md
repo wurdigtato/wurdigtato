@@ -11,5 +11,4 @@
 - 🔧 Git e GitHub
 
 
-⭐️ Se gostou de algum projeto, sinta-se à vontade para dar uma estrela!  
-Vamos nos conectar e construir coisas incríveis juntos!
+
